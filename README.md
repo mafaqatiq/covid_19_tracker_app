@@ -36,4 +36,4 @@ To get started with this Flutter project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/covid_19_tracker_app.git
+   git clone https://github.com/mafaqatiq/covid_19_tracker_app.git
